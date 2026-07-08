@@ -1,3 +1,3 @@
 Ham Hill Videos - Demonstartion
 
-https://ham-hill.github.io/videos/somerset.mp4
+https://ham-hill.github.io/videos/somerset_tiny.mp4
